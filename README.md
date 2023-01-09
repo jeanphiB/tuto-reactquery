@@ -1,4 +1,4 @@
-This project was written to expo a usage of ReactQuery.
+This project was written to present a usage of ReactQuery.
 
 
 ## Features
